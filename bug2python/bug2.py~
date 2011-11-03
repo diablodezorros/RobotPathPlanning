@@ -1,8 +1,0 @@
-class Grid:
-    def __init__(self, w, h):
-        self.m_grid = []
-        self.x = w
-        self.y = h
-    def setgoal(x,y):
-        self.
-        
